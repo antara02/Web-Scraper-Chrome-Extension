@@ -20,5 +20,7 @@ Compatibility: The extension is built on Manifest V3, the latest version of the 
 Technologies Used:
 
 HTML: Used for structuring the extension popup and defining the user interface elements.
+
 CSS: Applied for styling the extension popup, enhancing the visual appeal and usability.
+
 JavaScript: Implemented to handle user interactions, perform email scraping, and manage dynamic content updates.
